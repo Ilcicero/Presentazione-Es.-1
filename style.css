@@ -1,0 +1,20 @@
+
+.header{
+    background-color: aquamarine;
+}
+
+#keyword{
+    color: blue; 
+    font-size: large;
+}
+
+.intro{
+    background-color: rgb(60, 224, 27);
+}
+.corpo{
+    background-color: rgb(200, 231, 22);
+}
+
+footer{
+    background-color: rgb(245, 125, 13);
+}
